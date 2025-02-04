@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-<h4> <i>Remember that many posts and links are from years ago and may have outdated info due to P+ / PM being updated over the years</i>
+<h4> <i>Remembe that many posts and links are from years ago and may have outdated info due to P+ / PM being updated over the years</i>
 
 <h1> Overview
 <h3> <a href="https://rukaidata.com/P+/Olimar/">Frame Data</a>
