@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
       <summary> <h1>
         Pikachu
-        <p><img src="/Images/Pikachu.png" alt="Pika png" width=200></p?
+        <p><img src="/Images/Characters/Pikachu.png" alt="Pika.png"></p>
   </ul>
 </div>
 
@@ -13,5 +13,3 @@
 <h3> <a href="https://www.ssbwiki.com/Pikachu_(PM)/">Smash Wiki page</a>
 <h3> <a href="https://discord.com/invite/ZQDJvay">Pikachu Discord</a>
 <h3> <a href="https://www.reddit.com/r/SSBPM/comments/ghnuo3/labbing_discord_results_pikachu/">Labbing Discord results (gycat links mostly dead)</a>
-
-<h1> Tech

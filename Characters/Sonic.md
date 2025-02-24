@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
       <summary> <h1>
         Sonic
-        <p><img src="/Images/Sonic.png" alt="Pika png" width=200></p?
+        <p><img src="/Images/Characters/Sonic.png" alt="Sonic.png"></p>
   </ul>
 </div>
 
@@ -15,6 +15,6 @@
 <h3> <a href="https://www.reddit.com/r/SSBPM/comments/rpsjba/labbing_discord_results_sonic/">Labbing Discord results (gycat links mostly dead)</a>
 
 <h1> Guides
-<h3> <a href="https://docs.google.com/document/d/1eoWW6XcLwsV738R2o0huJm4487Z2IdI5NR8EKPx9a3Y/">Sonic guide by Motobug</a>
+<h3> <a href="https://docs.google.com/document/d/1eoWW6XcLwsV738R2o0huJm4487Z2IdI5NR8EKPx9a3Y">P+ Sonic Guide</a> by Motobug
 
 

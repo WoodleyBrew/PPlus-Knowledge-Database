@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
       <summary> <h1>
         Ice Climbers
-        <p><img src="/Images/Ice Climbers.png" alt="IC png" width=200></p?
+        <p><img src="/Images/Characters/Ice Climbers.png" alt="IC.png"></p>
   </ul>
 </div>
 

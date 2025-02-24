@@ -2,11 +2,37 @@
   <ul align="center" style="list-style: none">
       <summary> <h1>
         Universal Information
-        <p><img src="/Images/PPlus Logo.png" alt="P+ Logo" width=200></p?
+        <p><img src="/Images/PPlus Logo.png" style="height: 200; width: 200"></p>
   </ul>
 </div>
 
-<h3> <a href="https://rukaidata.com/P+">Frame Data</a>
+<h1> General Information
+<h3> <a href="https://projectplusgame.com">P+ Official Website</a>
 <h3> <a href="https://www.ssbwiki.com/Project%2B/">Smash Wiki page</a>
+<h3> <a href="https://docs.google.com/document/d/1FL63kdrahB_MQ6Br47fhVjNKIy22gEhMra_2xoiEVNQ/edit?tab=t.0">Project+ 2024 Recommended Ruleset</a>
+
+<h1> Technical information
+<h3> <a href="https://rukaidata.com/P+">Frame Data</a>
 <h3> <a href="https://docs.google.com/spreadsheets/d/1SAZ6-D3iARG3z8bwPBPS2PEe2pxIxx73ConGI4dYuK0/edit?usp=sharing">Knockback, Launch Speed, Hitstun, Hitlag & Shieldstun Calculation for P+ 3.0.5</a>
 <h3> <a href="https://docs.google.com/spreadsheets/d/1cp8_dGoGHP5SqbFjqqdygDX2QMW8lNNDeYRbSiLG4xE/edit?usp=sharing">P+ 3.0.5 Attributes Sheet</a>
+
+<h1> Stages
+<h3> <a href="https://docs.google.com/document/d/1G1b14fgT9APjgCbJ5jB0yUZv-Jh7oBVCXWHzn7auEPM/edit?tab=t.0">Project+ 2024 Proposed Stagelist</a> <i>(includes measurements)</i>
+
+<h1> Guides
+<h3> <a href="https://docs.google.com/document/d/1J5oQefVONcFKbObqr1udjL2tMRiasjcimys6wt6-Xdw/edit?usp=sharing">The Melee Player's Guide to P+</a>
+
+<h1> Mechanics
+<h3> <a href="/Images/Mechanics/Jab Reset.png">How Jab Reset works</a> <i>by Wren</i>
+<h3> <a href="/Images/Mechanics/SDI and DSSDI.png">SDI & DSSDI</a> <i>by Wren</i>
+
+<h1> Character Traits
+<h3> <a href="https://docs.google.com/spreadsheets/d/1-lMOoVU-ql_3giKG5AHUZJ_OwkbluhWS8WMWqXBTA0c/edit?gid=0">Character GALINT</a> <i>(says 2.29 but still accurate for 3.0.5)</i>
+
+<h1> Training Tools
+<h3> <a href="https://github.com/WispSSBM/ProjectPunch">ProjectPunch training mod</a>
+<h3> <a href="https://pastebin.com/Rvzs0mPh">Customise P+ capsule/collision colours</a>
+
+<h1> Renders and Artwork
+<h3> <a href="https://www.mediafire.com/file/arhkjuufx17jez0/CSProject_2.5.zip">CSProject_2.5</a>
+<h3> <a href="https://github.com/jlambert360/PPlusReleases/releases">Modders Pack</a>

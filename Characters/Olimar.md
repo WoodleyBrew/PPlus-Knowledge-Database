@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
       <summary> <h1>
         Olimar
-        <p><img src="/Images/Frogimar.png" alt="Olimar png" width=200></p?
+        <p><img src="/Images/Characters/Frogimar.png" alt="Olimar.png"></p>
   </ul>
 </div>
 
@@ -14,5 +14,3 @@
 <h3> <a href="https://www.ssbwiki.com/Olimar_(PM)/">Smash Wiki page</a>
 <h3> <a href="https://discord.com/invite/0oB0II6Rq7R3Cs98">Olimar Discord</a>
 <h3> <a href="https://www.reddit.com/r/SSBPM/comments/nq02kx/olimar_tech_post_repost_cause_it_wasnt_working/">Labbing Discord results (gycat links mostly dead)</a>
-
-<h1> Technical
