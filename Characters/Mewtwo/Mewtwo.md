@@ -21,7 +21,7 @@
 <h3> <a href="https://docs.google.com/document/d/1uXyRsAIpTUKj99DxT1RMREaK5unL5zFn7KIZy6HUAPs/edit?usp=sharing">Mewtwo Teleport Autocancels P+</a>
 
 <h1> Tech
-<h3> <a href="https://youtu.be/0klV7pkAG3Y">TP to ledge refresh resources</a>
+<h3> <a href="https://youtu.be/0klV7pkAG3Y">TP to ledge refresh resources</a> | <a href="https://WoodleyBrew.github.io/Testing-Repo-IGNORE/Characters/Mewtwo/TP.mp4">Mirror</a>
 
 <h1> Guides
 <h3> Mewtwo tech by Blu2 <a href="https://smashboards.com/threads/a-complete-video-guide-to-mewtwo-tech.429129/">Smashboards</a> | <a href=https://youtu.be/07QPSxLXaEU?si=hV9EzgYVILFTN4Zf/>Youtube</a> | <a href="https://youtu.be/xTePEZ2cD1M">Mirror</a>

@@ -1,0 +1,47 @@
+LUCAS MAG RESET
+
+YES
+Bowser
+Captain Falcon
+Charizard
+Diddy Kong
+Donkey Kong
+Falco
+Fox
+Ganondorf
+Ice Climbers
+Ike
+Knuckles
+Link
+Lucario
+Lucas
+Mario
+Meta Knight
+Mewtwo
+Ness
+Pikachu
+Roy
+Sheik
+Snake
+Sonic
+Squirtle
+Toon Link
+Wario
+Wolf
+Yoshi
+Zero Suit Samus
+
+NO
+King Dedede
+Ivysaur
+Jigglypuff
+Kirby
+Luigi
+Marth
+Mr. Game & Watch
+Olimar
+Peach
+Pit (does get jab reset)
+R.O.B.
+Samus
+Zelda

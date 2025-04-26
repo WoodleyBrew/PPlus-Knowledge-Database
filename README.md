@@ -31,14 +31,14 @@
     </tr>
      <tr>
         <td> <a href="Characters/Lucario.md"> <img src="Images/Characters/Lucario.png" style="height: 192px" alt="Lucario"></td>
-        <td> <a href="Characters/Lucas.md"> <img src="Images/Characters/Lucas.png" style="height: 192px" alt="Lucas"></td>
+        <td> <a href="Characters/Lucas/Lucas.md"> <img src="Images/Characters/Lucas.png" style="height: 192px" alt="Lucas"></td>
         <td> <a href="Characters/Luigi.md"> <img src="Images/Characters/Luigi.png" style="height: 192px" alt="Luigi"></td>
         <td> <a href="Characters/Mario.md"> <img src="Images/Characters/Mario.png" style="height: 192px" alt="Mario"></td>
     </tr>
      <tr>
         <td> <a href="Characters/Marth.md"> <img src="Images/Characters/Marth.png" style="height: 192px" alt="Marth"></td>
         <td> <a href="Characters/Meta Knight.md"> <img src="Images/Characters/Meta Knight.png" style="height: 192px" alt="Meta Knight"></td>
-        <td> <a href="Characters/Mewtwo.md"> <img src="Images/Characters/Mewtwo.png" style="height: 192px" alt="Mewtwo"></td>
+        <td> <a href="Characters/Mewtwo/Mewtwo.md"> <img src="Images/Characters/Mewtwo.png" style="height: 192px" alt="Mewtwo"></td>
         <td> <a href="Characters/Mr. Game and Watch.md"> <img src="Images/Characters/Mr. Game and Watch.png" style="height: 192px" alt="Mr. Game and Watch"></td>
     </tr>
      <tr>

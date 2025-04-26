@@ -13,3 +13,6 @@
 <h3> <a href="https://www.ssbwiki.com/Roy_(PM)">Smash Wiki page</a>
 <h3> <a href="https://discord.com/invite/0qBxfYTIuWgzovqo">Roy Discord</a>
 <h3> <a href="https://www.reddit.com/r/SSBPM/comments/n0ixby/labbing_discord_results_roy/">Labbing Discord results (gycat links mostly dead)</a>
+
+<h1> Guides
+<h3> <a href="https://www.youtube.com/watch?v=gM_l3VvbGzw">Roy Double Edge Dance - PM 101</a>

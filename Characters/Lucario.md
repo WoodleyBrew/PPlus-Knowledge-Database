@@ -13,3 +13,7 @@
 <h3> <a href="https://www.ssbwiki.com/Lucario_(PM)">Smash Wiki page</a>
 <h3> <a href="https://discord.com/invite/0aqfdO5CP3jETa4p">Lucario Discord</a>
 <h3> <a href="https://www.reddit.com/r/SSBPM/comments/fwkh2o/labbing_discord_results_lucario/">Labbing Discord results (gycat links mostly dead)</a>
+
+<h1> Guides
+<h3> <a href="https://www.youtube.com/watch?v=t3u4pxYFMk4">Lucario's Magic Series Explained</a>
+<h3> <a href="https://www.youtube.com/watch?v=6E6r4urfQgA">P+ Lucario in 3</a>

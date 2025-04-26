@@ -18,8 +18,8 @@
 
 <h1> Technical information
 <h3> <a href="https://rukaidata.com/P+">Frame Data</a>
-<h3> <a href="https://docs.google.com/spreadsheets/d/1SAZ6-D3iARG3z8bwPBPS2PEe2pxIxx73ConGI4dYuK0/edit?usp=sharing">Knockback, Launch Speed, Hitstun, Hitlag & Shieldstun Calculation for P+ 3.0.5</a>
-<h3> <a href="https://docs.google.com/spreadsheets/d/1cp8_dGoGHP5SqbFjqqdygDX2QMW8lNNDeYRbSiLG4xE/edit?usp=sharing">P+ 3.0.5 Attributes Sheet</a>
+<h3> <a href="https://docs.google.com/spreadsheets/d/1SAZ6-D3iARG3z8bwPBPS2PEe2pxIxx73ConGI4dYuK0/edit?usp=sharing">Knockback, Launch Speed, Hitstun, Hitlag & Shieldstun Calculation for P+ 3.1.0</a>
+<h3> <a href="https://docs.google.com/spreadsheets/d/1cp8_dGoGHP5SqbFjqqdygDX2QMW8lNNDeYRbSiLG4xE/edit?usp=sharing">P+ 3.1.0 Attributes Sheet</a>
 
 <h1> Stages
 <h3> <a href="https://docs.google.com/document/d/1G1b14fgT9APjgCbJ5jB0yUZv-Jh7oBVCXWHzn7auEPM/edit?tab=t.0">Project+ 2024 Proposed Stagelist</a> <i>(includes measurements)</i>
@@ -36,11 +36,11 @@
 <h3> <a href="https://youtu.be/al6gTBH-xzA?si=Cmq7PCdveuIlS50W">How L-Cancel works</a>
 
 <h1> Character Traits
-<h3> <a href="https://docs.google.com/spreadsheets/d/1-lMOoVU-ql_3giKG5AHUZJ_OwkbluhWS8WMWqXBTA0c/edit?gid=0">Character GALINT</a> <i>(says 2.29 but still accurate for 3.0.5)</i>
+<h3> <a href="https://docs.google.com/spreadsheets/d/1-lMOoVU-ql_3giKG5AHUZJ_OwkbluhWS8WMWqXBTA0c/edit?gid=0">Character GALINT</a> <i>(says 2.29 but still accurate for 3.1.0)</i>
 <h3> <a href="https://docs.google.com/spreadsheets/d/1bXKx_0QJxXFkCkElydrvm_qS4bo_ufUlDGQXfroBDG4/edit">Moves vs ASDI down template</a> <i>by Wren</i>
 
 <h1> Training Tools
-<h3> <a href="https://github.com/WispSSBM/ProjectPunch">ProjectPunch training mod</a>
+<h3> <a href="https://github.com/WispSSBM/ProjectPunch">ProjectPunch training mod</a> | <a href="https://github.com/WoodleyBrew/ProjectPunch/releases/tag/3.1.0">3.1.0 Pre Builts</a>
 <h3> <a href="https://pastebin.com/Rvzs0mPh">Customise P+ capsule/collision colours</a>
 <h3> <a href="https://youtu.be/HmFSqsFHBQ4?si=eJiU3gOOp1Pi0n86">Custom L-Cancel color and collision bubbles</a>
 
