@@ -55,7 +55,7 @@
     </tr>
      <tr>
         <td> <a href="Characters/Sheik.md"> <img src="Images/Characters/Sheik.png" style="height: 192px" alt="Sheik"></td>
-        <td> <a href="Characters/Snake.md"> <img src="Images/Characters/Snake.png" style="height: 192px" alt="Snake"></td>
+        <td> <a href="Characters/Snake/Snake.md"> <img src="Images/Characters/Snake.png" style="height: 192px" alt="Snake"></td>
         <td> <a href="Characters/Sonic.md"> <img src="Images/Characters/Sonic.png" style="height: 192px" alt="Sonic"></td>
         <td> <a href="Characters/Squirtle.md"> <img src="Images/Characters/Squirtle.png" style="height: 192px" alt="Squirtle"></td>
     </tr>
