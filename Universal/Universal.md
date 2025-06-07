@@ -24,7 +24,7 @@
 
 <h1> Stages
 <h3> <a href="https://docs.google.com/document/d/1G1b14fgT9APjgCbJ5jB0yUZv-Jh7oBVCXWHzn7auEPM/edit?tab=t.0">Project+ 2024 Proposed Stagelist</a> <i>(includes measurements)</i>
-<h3> <a href="https://docs.google.com/document/d/1G1b14fgT9APjgCbJ5jB0yUZv-Jh7oBVCXWHzn7auEPM/edit?tab=t.0">How to stage strike (24' proposed)</a>
+<h3> <a href="https://www.youtube.com/watch?v=DyjZUsnR5Sw">How to stage strike (24' proposed)</a>
 
 <h1> Guides
 <h3> <a href="https://docs.google.com/document/d/1J5oQefVONcFKbObqr1udjL2tMRiasjcimys6wt6-Xdw/edit?usp=sharing">The Melee Player's Guide to P+</a>
