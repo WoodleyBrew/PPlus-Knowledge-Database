@@ -12,4 +12,4 @@
 <h3> <a href="https://rukaidata.com/P+/Snake/">Frame Data</a>
 <h3> <a href="https://www.ssbwiki.com/Snake_(PM)">Smash Wiki page</a>
 <h3> <a href="https://discord.com/invite/0gpFvtpZUVyV108K">Snake Discord</a>
-<h3> <a href="https://docs.google.com/document/d/1_Cva7PFu8It2GJnMFbAi0mvStN8yivqy3Po9RnuUjL4/edit?usp=sharing">Sanke Tech Post 3.1.2</a> | <a href="/Characters/Snake/Snake Tech Post.md">Githubg mirror</a>
+<h3> <a href="https://www.reddit.com/r/SSBPM/comments/q6nnar/labbing_discord_results_snake/">Labbing Discord results (gycat links mostly dead)</a>
